@@ -2,7 +2,7 @@
 
 A web-based hostel management system for students, wardens, administrators and maintenance staff.
 
-**Live demo:** https://hostelsphere.pythonanywhere.com
+**Live website:** https://hostelsphere.pythonanywhere.com
 
 ## About
 
